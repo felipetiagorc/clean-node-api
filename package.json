@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pre-commit": "npm lint-staged",
-    "prepare": "husky install",
     "test": "jest"
   },
   "author": "",
