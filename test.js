@@ -1,0 +1,2 @@
+oaskdoaskdoas k function() {}
+erro;
