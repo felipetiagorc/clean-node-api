@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pre-commit": "lint-staged",
+    "pre-commit": "npm lint-staged",
     "prepare": "husky install",
     "test": "jest"
   },
   "lint-staged": {
     "*.js": [
       "standard --fix",
-      "gid add"
+      "gid add ."
     ]
   },
 
