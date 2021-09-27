@@ -1,2 +1,0 @@
-oaskdoaskdoas k function() {}
-erro;

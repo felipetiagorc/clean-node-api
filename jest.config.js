@@ -7,7 +7,7 @@ module.exports = {
   collectCoverage: true,
   coverageDirectory: 'coverage',
 
-  coverageProvider: 'v8',
+  coverageProvider: 'babel',
 
   // A list of reporter names that Jest uses when writing coverage reports
   // coverageReporters: [
